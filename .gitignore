@@ -3,6 +3,7 @@
 .RData
 data\
 *.html
+*.htm
 *.txt
 *.bak
 *.Rproj
